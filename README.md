@@ -1,4 +1,4 @@
-### Hi, I'm Fazle 👋
+### Hi, I'm Fasel 👋
 
 **AI enthusiast** and 5th-semester **Artificial Intelligence Engineering** student at **Institut Teknologi Sepuluh Nopember (ITS)**, Surabaya 🇮🇩.
 I work mainly on **Computer Vision** and **Natural Language Processing**, taking messy real-world data (satellite imagery, social media text, sensor streams) and turning it into models that hold up in practice.
@@ -13,11 +13,11 @@ I'm going deeper into AI for healthcare, mainly:
 - **Trustworthy AI**: explainability, calibration, and robust evaluation for high-stakes decisions
 
 #### 🔬 What I've worked on
-- **Computer Vision**: classifying waste and product images, segmenting crop fields and fruit defects, detecting objects, and clustering image collections
-- **NLP**: analyzing Indonesian social media and news text, from emotion and sentiment classification to topic discovery and named entity recognition
-- **Forecasting**: predicting air quality, water turbidity, and traffic speed from time-series and spatial data
-- **Multimodal & social impact**: combining satellite imagery and news text to map poverty risk, with explainability to make the results interpretable
-- **Competitions**: SATRIA DATA, Datavidia, BDC, Holology, ARA, DATASCAPE
+- **Computer Vision**: ambiguity-aware image classification, semantic segmentation, object detection, and end-to-end OCR pipelines
+- **Natural Language Processing**: Indonesian text understanding, including emotion analysis, topic modeling, and named entity recognition
+- **Graph & spatiotemporal learning**: forecasting traffic across large sensor networks and graph search for navigation prediction
+- **Multimodal learning**: fusing satellite imagery with news text to map poverty risk at the sub-district level
+- **Reliable & explainable ML**: leakage-aware validation, probability calibration, ablation studies, and model interpretation
 
 #### 🛠️ Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
