@@ -1,7 +1,10 @@
 ### Hi, I'm Fazle 👋
 
-**AI enthusiast** from Indonesia 🇮🇩, working mainly on **Computer Vision** and **Natural Language Processing**.
-I enjoy taking messy real-world data (satellite imagery, social media text, sensor streams) and turning it into models that hold up in practice.
+**AI enthusiast** and 5th-semester **Artificial Intelligence Engineering** student at **Institut Teknologi Sepuluh Nopember (ITS)**, Surabaya 🇮🇩.
+I work mainly on **Computer Vision** and **Natural Language Processing**, taking messy real-world data (satellite imagery, social media text, sensor streams) and turning it into models that hold up in practice.
+I also serve as Laboratory Administrator at the Information Intelligent Management Laboratory (IIMLab), ITS.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fazlemawla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazlemawla)
 
 #### 🩺 Current focus: Medical AI
 I'm going deeper into AI for healthcare, mainly:
