@@ -28,3 +28,9 @@ I'm going deeper into AI for healthcare, mainly:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzaff&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
+
+<!-- Spotify now playing: replace YOUR_SPOTIFY_UID (from https://spotify-github-profile.kittinanx.com/api/login) and remove these comment markers
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" />
+</a>
+-->
