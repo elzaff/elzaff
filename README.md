@@ -10,9 +10,10 @@ I'm going deeper into AI for healthcare, mainly:
 - **Trustworthy AI**: explainability, calibration, and robust evaluation for high-stakes decisions
 
 #### 🔬 What I've worked on
-- **Computer Vision**: image classification (SigLIP2, CNNs), segmentation (U-Net, Mask R-CNN, YOLOv8), detection
-- **NLP**: Indonesian text classification, emotion analysis, topic modeling, NER
-- **Beyond**: time-series forecasting, graph ML, multimodal learning, explainable AI
+- **Computer Vision**: classifying waste and product images, segmenting crop fields and fruit defects, detecting objects, and clustering image collections
+- **NLP**: analyzing Indonesian social media and news text, from emotion and sentiment classification to topic discovery and named entity recognition
+- **Forecasting**: predicting air quality, water turbidity, and traffic speed from time-series and spatial data
+- **Multimodal & social impact**: combining satellite imagery and news text to map poverty risk, with explainability to make the results interpretable
 - **Competitions**: SATRIA DATA, Datavidia, BDC, Holology, ARA, DATASCAPE
 
 #### 🛠️ Tools
@@ -25,12 +26,5 @@ I'm going deeper into AI for healthcare, mainly:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-#### 📌 Selected projects
-- [**east-java-poverty-mapping**](https://github.com/elzaff/east-java-poverty-mapping): multimodal poverty-risk mapping with satellite features, news NLP, and XAI
-- [**satria-data-bdc-waste-classification-siglip2-naflex**](https://github.com/elzaff/satria-data-bdc-waste-classification-siglip2-naflex): waste image classification with SigLIP2 NaFlex
-- [**grapefruit-defect-segmentation**](https://github.com/elzaff/grapefruit-defect-segmentation): U-Net vs Mask R-CNN vs YOLOv8 for defect segmentation
-- [**traffic-speed-graph-forecast**](https://github.com/elzaff/traffic-speed-graph-forecast): graph and text-fusion models for multistep traffic forecasting
-- [**twitter-emotion-rnn**](https://github.com/elzaff/twitter-emotion-rnn): Indonesian Twitter emotion classification
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzaff&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
